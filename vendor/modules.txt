@@ -1,0 +1,81 @@
+# github.com/apache/rocketmq-client-go/v2 v2.1.1
+## explicit; go 1.13
+github.com/apache/rocketmq-client-go/v2
+github.com/apache/rocketmq-client-go/v2/consumer
+github.com/apache/rocketmq-client-go/v2/errors
+github.com/apache/rocketmq-client-go/v2/internal
+github.com/apache/rocketmq-client-go/v2/internal/remote
+github.com/apache/rocketmq-client-go/v2/internal/utils
+github.com/apache/rocketmq-client-go/v2/primitive
+github.com/apache/rocketmq-client-go/v2/producer
+github.com/apache/rocketmq-client-go/v2/rlog
+# github.com/emirpasic/gods v1.12.0
+## explicit
+github.com/emirpasic/gods/containers
+github.com/emirpasic/gods/maps
+github.com/emirpasic/gods/maps/treemap
+github.com/emirpasic/gods/trees
+github.com/emirpasic/gods/trees/redblacktree
+github.com/emirpasic/gods/utils
+# github.com/golang/mock v1.3.1
+## explicit
+github.com/golang/mock/gomock
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+## explicit
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# github.com/pkg/errors v0.8.1
+## explicit
+github.com/pkg/errors
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
+# github.com/sirupsen/logrus v1.4.0
+## explicit
+github.com/sirupsen/logrus
+# github.com/stathat/consistent v1.0.0
+## explicit
+github.com/stathat/consistent
+# github.com/tidwall/gjson v1.13.0
+## explicit; go 1.12
+github.com/tidwall/gjson
+# github.com/tidwall/match v1.1.1
+## explicit; go 1.15
+github.com/tidwall/match
+# github.com/tidwall/pretty v1.2.0
+## explicit; go 1.16
+github.com/tidwall/pretty
+# go.uber.org/atomic v1.5.1
+## explicit; go 1.13
+go.uber.org/atomic
+# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+## explicit
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/lint v0.0.0-20190930215403-16217165b5de
+## explicit
+golang.org/x/lint
+golang.org/x/lint/golint
+# golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/tools v0.0.0-20191029041327-9cc4af7d6b2c
+## explicit; go 1.11
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/gcimporter
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+## explicit
+gopkg.in/natefinch/lumberjack.v2
